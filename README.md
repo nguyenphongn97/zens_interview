@@ -1,7 +1,7 @@
 # My Interview Test
 This is the Jokee single-serving application, designed to provide humorous stories to relieve stress after long working hours. You can like or dislike a story, and the app will help you discover other, more interesting stories.
 
-###Table of Contents
+### Table of Contents
 - Screenshots
 - Installation
 - Running the App
